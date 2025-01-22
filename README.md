@@ -20,12 +20,13 @@ GitHub Profil Bilgisi: Kullanıcı, bir GitHub kullanıcı adı girerek o kullan
 Repositoriler: Kullanıcıya ait tüm repositoriler (depo) listelenebilir.<br>
 Bu repositoriler, projenin adı, açıklaması, yıldız sayısı ve diğer temel bilgilerle birlikte gösterilir.<br>
 Dinamik Veri Çekme: Kullanıcı, GitHub kullanıcı adını girdikçe, API aracılığıyla ilgili veriler gerçek zamanlı olarak çekilir ve sayfa otomatik olarak güncellenir.<br>
-<h3><br><br>
-
-<br><br>
-iletişim:muratalisahin61@gmail.com
+<h3><br>
+iletişim:muratalisahin61@gmail.com<br>
 Ekran Görüntüsü 🎥
 <br>
 <br>
+<br>
 
+
+  
 ![alt text](bandicam2025-01-2216-29-56-906-ezgif.com-crop.gif)
