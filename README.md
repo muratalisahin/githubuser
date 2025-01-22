@@ -24,9 +24,8 @@ Dinamik Veri Çekme: Kullanıcı, GitHub kullanıcı adını girdikçe, API arac
 iletişim:muratalisahin61@gmail.com<br>
 Ekran Görüntüsü 🎥
 <br>
-<br>
+
+![bandicam2025-01-2216-29-56-906-ezgif com-crop](https://github.com/user-attachments/assets/712f6473-8601-4974-881c-bd93ea5cf3fe)
 <br>
 
-
-  
 ![alt text](bandicam2025-01-2216-29-56-906-ezgif.com-crop.gif)
