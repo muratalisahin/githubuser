@@ -27,7 +27,7 @@ Ekran Görüntüsü 🎥
 
 
 
-Uploading bandicam 2025-01-22 17-47-11-890.mp4…
+
 
 
 
