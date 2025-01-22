@@ -12,7 +12,7 @@ Sayfa dinamikliğini sağlamak ve kullanıcı etkileşimlerini yönetmek için k
 API (Application Programming Interface):<br>
 
 GitHub API'si, kullanıcının GitHub profil bilgilerine, repositorilerine ve diğer verilerine erişmek için kullanılır. API sayesinde veriler dinamik bir şekilde çekilir ve kullanıcının profili gerçek zamanlı olarak güncellenebilir.<br><
-Axios:<br>
+Axios:
 
 Axios, JavaScript'te HTTP istekleri yapmak için kullanılan bir kütüphanedir. Bu projede, GitHub API’sine yapılan HTTP isteklerini basitleştirmek ve gelen verileri işlemek için kullanılmıştır. Axios, JSON formatında veri almayı ve veriyi işleyerek kullanıcı arayüzüne yansıtmayı sağlar.<br>
 Özellikler:<br>
@@ -25,7 +25,9 @@ iletişim:muratalisahin61@gmail.com<br>
 Ekran Görüntüsü 🎥
 <br>
 
-![bandicam2025-01-2216-29-56-906-ezgif com-crop](https://github.com/user-attachments/assets/712f6473-8601-4974-881c-bd93ea5cf3fe)
-<br>
 
-![alt text](bandicam2025-01-2216-29-56-906-ezgif.com-crop.gif)
+
+Uploading bandicam 2025-01-22 17-47-11-890.mp4…
+
+
+
