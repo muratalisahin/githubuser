@@ -8,22 +8,23 @@ CSS (Cascading Style Sheets):<br>
 Sayfanın stilini oluşturmak için kullanılmıştır. Profil kartı ve sayfa genelinde renkler, fontlar, düzenlemeler (layout), animasyonlar ve görsel tasarım CSS ile yapılmıştır.<br>
 JavaScript (JS):<br>
 
-Sayfa dinamikliğini sağlamak ve kullanıcı etkileşimlerini yönetmek için kullanılmıştır. JavaScript, GitHub API’si ile iletişim kurarak verileri çekmek, bunları işlemek ve kullanıcıya sunmak için kullanılır.<br>
+Sayfa dinamikliğini sağlamak ve kullanıcı etkileşimlerini yönetmek için kullanılmıştır. JavaScript, GitHub API’si ile iletişim kurarak verileri çekmek, bunları işlemek ve kullanıcıya sunmak için kullanılır.<br><br>
 API (Application Programming Interface):<br>
 
-GitHub API'si, kullanıcının GitHub profil bilgilerine, repositorilerine ve diğer verilerine erişmek için kullanılır. API sayesinde veriler dinamik bir şekilde çekilir ve kullanıcının profili gerçek zamanlı olarak güncellenebilir.<br>
-Axios:<br>
+GitHub API'si, kullanıcının GitHub profil bilgilerine, repositorilerine ve diğer verilerine erişmek için kullanılır. API sayesinde veriler dinamik bir şekilde çekilir ve kullanıcının profili gerçek zamanlı olarak güncellenebilir.<br><br>
+Axios:<br><br>
 
-Axios, JavaScript'te HTTP istekleri yapmak için kullanılan bir kütüphanedir. Bu projede, GitHub API’sine yapılan HTTP isteklerini basitleştirmek ve gelen verileri işlemek için kullanılmıştır. Axios, JSON formatında veri almayı ve veriyi işleyerek kullanıcı arayüzüne yansıtmayı sağlar.
+Axios, JavaScript'te HTTP istekleri yapmak için kullanılan bir kütüphanedir. Bu projede, GitHub API’sine yapılan HTTP isteklerini basitleştirmek ve gelen verileri işlemek için kullanılmıştır. Axios, JSON formatında veri almayı ve veriyi işleyerek kullanıcı arayüzüne yansıtmayı sağlar.<br>
 Özellikler:<br>
 GitHub Profil Bilgisi: Kullanıcı, bir GitHub kullanıcı adı girerek o kullanıcıya ait profil bilgilerini görüntüleyebilir. Bu bilgiler arasında profil fotoğrafı, kullanıcı adı, bio (kısa açıklama), takipçi sayısı, takip edilen kişi sayısı vb. yer alır.<br>
-Repositoriler: Kullanıcıya ait tüm repositoriler (depo) listelenebilir. Bu repositoriler, projenin adı, açıklaması, yıldız sayısı ve diğer temel bilgilerle birlikte gösterilir.<br>
+Repositoriler: Kullanıcıya ait tüm repositoriler (depo) listelenebilir.<br>
+Bu repositoriler, projenin adı, açıklaması, yıldız sayısı ve diğer temel bilgilerle birlikte gösterilir.<br>
 Dinamik Veri Çekme: Kullanıcı, GitHub kullanıcı adını girdikçe, API aracılığıyla ilgili veriler gerçek zamanlı olarak çekilir ve sayfa otomatik olarak güncellenir.<br>
-<h3><br>
+<h3><br><br>
 Ekran Görüntüsü 🎥<br>
 
 ![alt text](bandicam2025-01-2216-29-56-906-ezgif.com-crop.gif)
-<br>
+<br><br>
 iletişim:muratalisahin61@gmail.com# githubkullan-c-
 # githubkullanici
 # githubuser
